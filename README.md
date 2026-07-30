@@ -1,9 +1,5 @@
 # SQL Practice
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 This repository contains my SQL practice queries, covering fundamental SQL concepts commonly used in Data Analysis and Database Management. The queries are written to strengthen my understanding of data retrieval, filtering, sorting, and pattern matching.
 
 ## Topics Covered
